@@ -14,7 +14,6 @@ obj/
 *.lock
 *.log
 *.bak
-*.db
 
 # Ignore temporary files and folders
 *.tmp
